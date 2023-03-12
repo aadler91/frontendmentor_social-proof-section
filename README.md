@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/aadler91/frontendmentor_social-proof-section](https://github.com/aadler91/frontendmentor_social-proof-section)
+- Live Site URL: [https://aadler91.github.io/frontendmentor_social-proof-section/](https://aadler91.github.io/frontendmentor_social-proof-section/)
 
 ## My process
 
